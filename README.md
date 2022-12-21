@@ -1,3 +1,3 @@
 Built with HTML, Flexbox. 
 
-Live demo of Elói Ramos´portfolio: https://eloiramos.github.io/cv/
+Live demo of my portfolio: https://eloiramos.github.io/cv/
